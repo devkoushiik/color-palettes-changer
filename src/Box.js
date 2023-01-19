@@ -38,7 +38,7 @@ class Box extends Component {
           onClick={this.handleClick}
         ></div>
       </div>
-    );
+    )
   }
 }
 

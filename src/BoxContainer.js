@@ -14,7 +14,7 @@ export default class BoxContainer extends Component {
     return (
       <div>
         <h4>Click over boxes to change color 😒</h4>
-        <div className="BoxContainer">{boxes}</div>;
+        <div className="BoxContainer">{boxes}</div>
       </div>
     );
   }

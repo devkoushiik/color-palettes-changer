@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,500;1,600&display=swap');
+body {
+    color : white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+.BoxContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color : white;
+    background-color : black;
+}
